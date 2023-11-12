@@ -1,4 +1,3 @@
-### Hi there 👋 I am Anna Wu (Yu Wu)
 
 <!-- GitHub 统计卡片 -->
 <!--![Yurawoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yurawoo&show_icons=true&theme=radical&hide=contribs,issues,prs)-->
@@ -8,24 +7,60 @@
 <!-- 最常用的编程语言 -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yurawoo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats -->
 
+### Hi there 👋 I am Anna Wu (Yu Wu)
 
-<!-- 技能图标 -->
-### Skills
+I am a passionate Software Development Engineer, dedicated to enhancing vehicle safety and traffic efficiency through advanced technology and deep learning. With a strong background in computer vision, machine learning, and developing innovative solutions, I excel in optimizing complex systems. Skilled in a variety of programming languages and frameworks, my focus is on delivering high-quality software that enhances user experience and drives business value, while also pioneering in the development of cutting-edge systems for real-time data processing and analysis.
+
+
+
+---
+
+### 🚀 Projects
+
+
+#### Advanced System Development Using Deep Learning
+_(Highlight the time period)_
+- Developed and optimized complex systems using technologies like Raspberry Pi, YOLO, LSTM, and SiamFC.
+- Leveraged Python and TensorFlow to create robust solutions for real-time data processing and analysis.
+
+#### Dynamic Web Application Development
+_(Highlight the time period)_
+- Engineered dynamic and responsive web applications using React, Node.js, and JavaScript.
+- Focused on state management, API integrations, and creating intuitive user interfaces.
+
+#### Real-Time Communication Solutions
+_(Highlight the time period)_
+- Developed a Java-based real-time chat application using WebSocket technology.
+- Emphasized on backend logic, real-time communication, and data persistence.
+
+#### Road Recognition System Using Raspberry Pi Car-mounted Camera
+_Sept 2020 - Aug 2021_
+- Developed a real-time road situation recognition system using Raspberry Pi.
+- Employed YOLO deep learning model for object detection.
+
+
+---
+
+### 🛠 Skills
+
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=TensorFlow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square&logo=PyTorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-white?style=flat-square&logo=OpenCV)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
-<!-- 社交媒体链接 -->
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Yurawoo/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Yurawoo)
 
-<!-- 个人联系 -->
-### Contact Me
-- 📫 How to reach me: Yurawoo@gmail.com
+
+
+
+---
+
+### ✉️ Contact Me
+
+- 📫 How to reach me: annawujob789@gmail.com
 
 
 <!--
