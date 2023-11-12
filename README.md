@@ -8,38 +8,37 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yurawoo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats -->
 
 ### Hi there 👋 I am Anna Wu (Yu Wu)
-  
-  I am a passionate Software Development Engineer, dedicated to enhancing vehicle safety and traffic efficiency through advanced technology and deep learning. With a strong background in computer vision and machine learning, I have developed innovative solutions and excel in optimizing complex systems.
-  
-  Skilled in a variety of programming languages and frameworks, my focus is on delivering high-quality software that enhances user experience and drives business value. I am also pioneering in the development of cutting-edge systems for real-time data processing and analysis.
-      
 
+🌟 *About Me*:  
+Passionate about creating technologies that make a difference, I am Anna Wu - a Software Development Engineer with a flair for enhancing vehicle safety and traffic efficiency. My journey in the tech world is driven by my fascination with computer vision and machine learning.
+
+🔍 *My Expertise*:  
+- 💻 Skilled in **Python, JavaScript, React, Node.js**
+- 🤖 Pioneering in **machine learning** and **deep learning**
+- 🚗 Specializing in **vehicle safety systems** and **real-time data processing**
+
+🚀 *What I Love Doing*:  
+Creating software that's not just code, but a catalyst for better user experiences and tangible business value. It's all about bringing ideas to life and watching them make a real impact.
 
 ---
 
 ### 🚀 Projects
 
+**Advanced System Development Using Deep Learning**
+- Harnessing **Raspberry Pi, YOLO, LSTM**, and **SiamFC** for cutting-edge solutions.
+- Focused on real-time processing and robust system design.
 
-#### Advanced System Development Using Deep Learning
+**Dynamic Web Application Development**
+- Building responsive web apps with a mix of **React, Node.js**, and **JavaScript**.
+- Passionate about intuitive UIs and seamless state management.
 
-- Developed and optimized complex systems using technologies like Raspberry Pi, YOLO, LSTM, and SiamFC.
-- Leveraged Python and TensorFlow to create robust solutions for real-time data processing and analysis.
+**Real-Time Communication Solutions**
+- A chat application that redefines real-time interactions, built with **Java** and **WebSocket** technology.
+- Emphasizing on backend logic and data persistence.
 
-#### Dynamic Web Application Development
-
-- Engineered dynamic and responsive web applications using React, Node.js, and JavaScript.
-- Focused on state management, API integrations, and creating intuitive user interfaces.
-
-#### Real-Time Communication Solutions
-
-- Developed a Java-based real-time chat application using WebSocket technology.
-- Emphasized on backend logic, real-time communication, and data persistence.
-
-#### Road Recognition System Using Raspberry Pi Car-mounted Camera
-
-- Developed a real-time road situation recognition system using Raspberry Pi.
-- Employed YOLO deep learning model for object detection.
-
+**Road Recognition System Using Raspberry Pi Car-mounted Camera**
+- An innovative system that enhances road safety using real-time object detection.
+- A blend of **YOLO deep learning models** and Raspberry Pi technology
 
 ---
 
