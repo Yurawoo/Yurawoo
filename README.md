@@ -1,15 +1,13 @@
 ### Hi there 👋 I am Anna Wu (Yu Wu)
 
 <!-- GitHub 统计卡片 -->
-![Yurawoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yurawoo&show_icons=true&theme=radical&hide=contribs,issues,prs)
-![Yurawoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yurawoo&show_icons=true&theme=radical&layout=compact)
-![Yurawoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yurawoo&show_icons=true&theme=vue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yurawoo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--![Yurawoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yurawoo&show_icons=true&theme=radical&hide=contribs,issues,prs)-->
 
 
 
 <!-- 最常用的编程语言 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yurawoo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yurawoo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats -->
+
 
 <!-- 技能图标 -->
 ### Skills
