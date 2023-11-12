@@ -8,23 +8,11 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yurawoo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats -->
 
 ### Hi there 👋 I am Anna Wu (Yu Wu)
-<p align="center">
-  <table>
-    <tr>
-      <!-- 左边栏（文本） -->
-      <td valign="top" width="50%">
-        <b>About Me:</b><br>
-        I am a passionate Software Development Engineer, dedicated to enhancing vehicle safety and traffic efficiency through advanced technology and deep learning. With a strong background in computer vision, machine learning, and developing innovative solutions, I excel in optimizing complex systems. Skilled in a variety of programming languages and frameworks, my focus is on delivering high-quality software that enhances user experience and drives business value, while also pioneering in the development of cutting-edge systems for real-time data processing and analysis.
-      </td>
-
-      <!-- 右边栏（图片） -->
-      <td valign="top" width="50%">
-        <img src="https://github.com/account" alt="图片描述" width="100%" />
-      </td>
-    </tr>
-  </table>
-</p>
-
+  
+  I am a passionate Software Development Engineer, dedicated to enhancing vehicle safety and traffic efficiency through advanced technology and deep learning. With a strong background in computer vision and machine learning, I have developed innovative solutions and excel in optimizing complex systems.
+  
+  Skilled in a variety of programming languages and frameworks, my focus is on delivering high-quality software that enhances user experience and drives business value. I am also pioneering in the development of cutting-edge systems for real-time data processing and analysis.
+      
 
 
 ---
