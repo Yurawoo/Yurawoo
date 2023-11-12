@@ -19,7 +19,7 @@
 
       <!-- 右边栏（图片） -->
       <td valign="top" width="50%">
-        <img src="图片链接" alt="图片描述" width="100%" />
+        <img src="https://github.com/account" alt="图片描述" width="100%" />
       </td>
     </tr>
   </table>
