@@ -19,22 +19,22 @@ I am a passionate Software Development Engineer, dedicated to enhancing vehicle 
 
 
 #### Advanced System Development Using Deep Learning
-_(Highlight the time period)_
+
 - Developed and optimized complex systems using technologies like Raspberry Pi, YOLO, LSTM, and SiamFC.
 - Leveraged Python and TensorFlow to create robust solutions for real-time data processing and analysis.
 
 #### Dynamic Web Application Development
-_(Highlight the time period)_
+
 - Engineered dynamic and responsive web applications using React, Node.js, and JavaScript.
 - Focused on state management, API integrations, and creating intuitive user interfaces.
 
 #### Real-Time Communication Solutions
-_(Highlight the time period)_
+
 - Developed a Java-based real-time chat application using WebSocket technology.
 - Emphasized on backend logic, real-time communication, and data persistence.
 
 #### Road Recognition System Using Raspberry Pi Car-mounted Camera
-_Sept 2020 - Aug 2021_
+
 - Developed a real-time road situation recognition system using Raspberry Pi.
 - Employed YOLO deep learning model for object detection.
 
