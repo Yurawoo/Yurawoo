@@ -1,13 +1,28 @@
 ### Hi there 👋 I am Anna Wu (Yu Wu)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yurawoo&hide=contribs,prs)
+<!-- GitHub 统计卡片 -->
+![Yurawoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yurawoo&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yurawoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 最常用的编程语言 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yurawoo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![github - stats](https://github-readme-stats.vercel.app/api?username=programmer-Yurawoo&theme=dark&show_icons=true)]
-[![most - used-language](https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-Yurawoo&layout=compact&hide=html&theme=dark)]
-[![total - contribution](https://github-readme-streak-stats.herokuapp.com/?user=programmer-Yurawoo&theme=highcontrast)]
+<!-- 技能图标 -->
+### Skills
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
+<!-- 社交媒体链接 -->
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Yurawoo/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Yurawoo)
+
+<!-- 个人联系 -->
+### Contact Me
+- 📫 How to reach me: Yurawoo@gmail.com
 
 
 <!--
