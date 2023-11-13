@@ -17,7 +17,7 @@ Passionate about creating technologies that make a difference, I am Anna Wu - a 
 - 🤖 Pioneering in **machine learning** and **deep learning**
 - 🚗 Specializing in **vehicle safety systems** and **real-time data processing**
 
-🚀 *What I Love Doing*:  
+💜 *What I Love Doing*:  
 Creating software that's not just code, but a catalyst for better user experiences and tangible business value. It's all about bringing ideas to life and watching them make a real impact.
 
 ---
