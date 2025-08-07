@@ -10,7 +10,8 @@
 ### Hi there
 
 🌟 *About Me*:  
-Passionate about creating technologies that make a difference, my journey in the tech world is driven by my fascination with computer vision and machine learning
+Passionate about creating technologies that make a difference, my journey in the tech world is driven by my fascination with computer vision and machine learning.
+
 🔍 *My Expertise*:  
 - 💻 Skilled in **Python, JavaScript, React, Node.js**
 - 🤖 Pioneering in **machine learning** and **deep learning**
