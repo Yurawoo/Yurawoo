@@ -7,7 +7,7 @@
 <!-- 最常用的编程语言 -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yurawoo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats -->
 
-### Hi there 👋 I am Anna Wu (Yu Wu)
+### Hi there
 
 🌟 *About Me*:  
 Passionate about creating technologies that make a difference, I am Anna Wu - a Software Development Engineer with a flair for enhancing vehicle safety and traffic efficiency. My journey in the tech world is driven by my fascination with computer vision and machine learning.
@@ -59,9 +59,6 @@ Creating software that's not just code, but a catalyst for better user experienc
 
 ---
 
-### ✉️ Contact Me
-
-- 📫 How to reach me: annawujob789@gmail.com
 
 
 <!--
